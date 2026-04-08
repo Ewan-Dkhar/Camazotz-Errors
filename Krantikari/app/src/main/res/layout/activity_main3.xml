@@ -22,7 +22,7 @@
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:layout_margin="40dp"
-            app:cardBackgroundColor="@color/black"
+            app:cardBackgroundColor="@color/white"
             >
 
             <LinearLayout
@@ -55,7 +55,7 @@
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:layout_margin="40dp"
-            app:cardBackgroundColor="@color/black"
+            app:cardBackgroundColor="@color/white"
 
             >
 
@@ -88,7 +88,7 @@
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:layout_margin="40dp"
-            app:cardBackgroundColor="@color/black"
+            app:cardBackgroundColor="@color/white"
 
             >
             <LinearLayout
@@ -120,7 +120,7 @@
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:layout_margin="40dp"
-            app:cardBackgroundColor="@color/black"
+            app:cardBackgroundColor="@color/white"
 
             >
 
@@ -153,7 +153,7 @@
             android:layout_height="300dp"
             android:layout_margin="40dp"
             android:gravity="center"
-            app:cardBackgroundColor="@color/black"
+            app:cardBackgroundColor="@color/white"
 
             >
 
@@ -184,7 +184,7 @@
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:layout_margin="40dp"
-            app:cardBackgroundColor="@color/black"
+            app:cardBackgroundColor="@color/white"
 
             >
 
@@ -216,7 +216,7 @@
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:layout_margin="40dp"
-            app:cardBackgroundColor="@color/black"
+            app:cardBackgroundColor="@color/white"
 
             >
             <LinearLayout
@@ -247,7 +247,7 @@
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:layout_margin="40dp"
-            app:cardBackgroundColor="@color/black"
+            app:cardBackgroundColor="@color/white"
 
             >
             <LinearLayout
